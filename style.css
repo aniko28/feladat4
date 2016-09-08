@@ -1,0 +1,21 @@
+.header {
+    font-family: Verdana, Arial, sans-serif;
+    font-size: 30px;
+    line-height: 150px;
+}
+.wrapper {
+    font-family: Verdana, Arial, sans-serif;
+    font-size: 20px;
+}
+
+.top{
+    margin-bottom: 1em;
+    border-left: 5px solid silver;
+    margin-left: 5px;
+    padding: 5px;font-style: italic;
+    font-size: 20px;
+}
+body{
+    max-width: 1080px;
+    margin: auto;
+}
